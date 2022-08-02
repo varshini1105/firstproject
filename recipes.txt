@@ -7,6 +7,7 @@ welcome
 dosa
 sambar
 chutney
+kabab
 
 
 thank you

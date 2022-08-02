@@ -7,3 +7,6 @@ welcome
 dosa
 sambar
 chutney
+
+
+thank you
